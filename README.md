@@ -1,3 +1,5 @@
+                                                                               Hotel-Reservation-System (JDBC WITH MYSQL + OOPS + EXCEPTION HANDLING)
+                                                                        =================================================================================
 This Java project is a simple Hotel Reservation System implemented using JDBC (Java Database Connectivity) for connecting to a MySQL database. Below is an explanation of the project structure and functionality:
 
 ### Project Structure:
